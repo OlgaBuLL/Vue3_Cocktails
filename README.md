@@ -36,8 +36,9 @@
 
 ## Stack:
 
-🍸 `Vue.js 3`    
-🍸 `Composition API`    
+🍸 `Vue.js 3 - Composition API`    
+🍸 `Vue Router`    
+🍸 `Pinia`    
 🍸 `The Cocktail DB API`    
 🍸 `SASS`      
 🍸 `Java Script`     

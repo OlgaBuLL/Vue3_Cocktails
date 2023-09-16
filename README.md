@@ -7,7 +7,7 @@
 
 <br>
 
-## About The Project
+## Functionality:
 
 🍹 Select the main ingredient and get the list of possible cocktails to cook       
 🍹 Click on your favorite cocktail and get the ingredients that it is made of    

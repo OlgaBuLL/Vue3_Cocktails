@@ -28,7 +28,7 @@
 
 [<img width="700" src="https://user-images.githubusercontent.com/108359930/268472229-2fae5838-be63-49f2-ad98-52aa6bbbdc13.png">](https://olgabull.github.io/Vue3_Cocktails/)
 
-[<img width="700" src="https://user-images.githubusercontent.com/108359930/268472230-62cdda04-2f10-4c76-bc1a-d5b3e5370e18.png">](https://olgabull.github.io/Vue3_Cocktails/random)
+[<img width="700" src="https://user-images.githubusercontent.com/108359930/268472230-62cdda04-2f10-4c76-bc1a-d5b3e5370e18.png">](https://olgabull.github.io/Vue3_Cocktails/)
 
 
 

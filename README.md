@@ -11,7 +11,7 @@
 
 🍹 Select the main ingredient and get the list of possible cocktails to cook       
 🍹 Click on your favorite cocktail and get the ingredients that it is made of    
-🍹 You can also order a random cocktail if you're not a cocktail connoisseur     
+🍹 You can also get a random cocktail if you're not a cocktail connoisseur     
 🍹 Routing
 
 <br>    
